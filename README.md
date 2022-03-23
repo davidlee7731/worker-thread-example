@@ -1,0 +1,1 @@
+A simple repo explaining the benefits of using Node's Worker Threads.

@@ -1,0 +1,16 @@
+{
+  "name": "tech-talk-worker-thread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "davidlee7731",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
